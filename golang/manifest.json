@@ -1,0 +1,15 @@
+{
+  "name": "Go 语言设计与实现",
+  "short_name": "Go 语言设计与实现",
+  "start_url": "/golang/",
+  "scope": "/golang/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/golang/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
